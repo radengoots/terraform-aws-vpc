@@ -1,4 +1,3 @@
-# This module was created using terraform 0.11.4 at 2018/03/21.
 # This module was updated to terraform 0.13.7 on 2021/09/21.
 terraform {
   required_version = ">= 0.12.0"
