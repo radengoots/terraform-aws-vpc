@@ -1,4 +1,5 @@
 data "aws_iam_policy_document" "flowlogs_to_s3" {
+
   statement {
     sid    = "AWSLogDeliveryWrite"
     effect = "Allow"
